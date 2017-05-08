@@ -1,0 +1,6 @@
+.nfs*
+*.[ao]
+*~
+*.org
+webrev/*
+webrev.files
